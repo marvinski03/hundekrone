@@ -1,37 +1,37 @@
 {
     "version"           :   "1.0.7",
-    "name"              :   "Hundekrone",
+    "name"              :   "HundeKrone",
     "pluginIcon"        :   "icon_plugin_xs.png",
     "authorIcon"        :   "icon_author_xs.png",
     "email"             :   "sales@plentymarkets.com",
     "phone"             :   "+49 561 98 681 100",
-    "description"       :   "Hundekrone Ceres-Theme",
-    "namespace"         :   "Hundekrone",
+    "description"       :   "HundeKrone Ceres-Theme",
+    "namespace"         :   "HundeKrone",
     "author"            :   "plentysystems AG",
     "type"              :   "theme",
     "require"           :   {
                                 "Ceres":">= 3.0.0"
                             },
-    "serviceProvider"   :   "Hundekrone\\Providers\\HundekroneServiceProvider",
+    "serviceProvider"   :   "HundeKrone\\Providers\\HundeKroneServiceProvider",
     "dataProviders"     :
     [
         {
-            "key"           :"Hundekrone\\Containers\\HundekroneContainer",
+            "key"           :"HundeKrone\\Containers\\HundeKroneContainer",
             "name"          :"Stylesheet",
             "description"   :"Add changes to the CSS file"
         },
         {
-            "key"           :"Hundekrone\\Containers\\HundekroneItemListContainer1",
+            "key"           :"HundeKrone\\Containers\\HundeKroneItemListContainer1",
             "name"          :"First item list",
             "description"   :"Display a configurable list of items in your online store"
         },
         {
-            "key"           :"Hundekrone\\Containers\\HundekroneItemListContainer2",
+            "key"           :"HundeKrone\\Containers\\HundeKroneItemListContainer2",
             "name"          :"Second item list",
             "description"   :"Display a configurable list of items in your online store"
         },
         {
-            "key"           :"Hundekrone\\Containers\\HundekroneItemListContainer3",
+            "key"           :"HundeKrone\\Containers\\HundeKroneItemListContainer3",
             "name"          :"Third item list",
             "description"   :"Display a configurable list of items in your online store"
         }
