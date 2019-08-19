@@ -1,12 +1,12 @@
 {
     "version"           :   "1.0.7",
-    "name"              :   "Hundekrone",
+    "name"              :   "Hundekrone Template",
     "pluginIcon"        :   "icon_plugin_xs.png",
     "authorIcon"        :   "icon_author_xs.png",
     "email"             :   "kontakt@marvin-langer.de",
     "phone"             :   "+49 (0)2841 3674890",
     "description"       :   "Hundekrone Ceres-Theme",
-    "namespace"         :   "Hundekrone",
+    "namespace"         :   "HundeKrone",
     "author"            :   "Marvin Langer – Webdesign & Online-Marketing",
     "type"              :   "theme",
     "require"           :   {
